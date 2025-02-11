@@ -9,7 +9,7 @@ Before running the chatbot, ensure you have the following prerequisites installe
 - .NET Core SDK
 - Azure CLI
 - Azure subscription with access to OpenAI services
-- Environment variable `AZURE_OPENAI_ENDPOINT` set to your OpenAI endpoint
+- Line 16 set environment variable `AZURE_OPENAI_ENDPOINT` set to your OpenAI endpoint (gpt-40-mini)
 
 ## Installation
 

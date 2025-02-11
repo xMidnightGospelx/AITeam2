@@ -28,7 +28,7 @@ Before running the chatbot, ensure you have the following prerequisites installe
     - Ensure you have the `InteractiveBrowserCredential` for passwordless authentication.
     - Set the environment variable:
         ```bash
-        export AZURE_OPENAI_ENDPOINT=https://YOUR_OPENAI_ENDPOINT/
+        export AZURE_OPENAI_ENDPOINT=https://YOUR_OPENAI_ENDPOINT.com/
         ```
 
 ## Usage
